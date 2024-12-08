@@ -65,7 +65,14 @@ flutter:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
-  - assets/youtube_logo.jpg
+  - assets/yt.jpg
+  - assets/shorts.png
+  - assets/avi.jpg
+  - assets/avi1.jpg
+  - assets/avi3.jpg
+  - assets/youtube_icon.jpg
+  - assets/Youtube_UI.png
+  
 
 
 
